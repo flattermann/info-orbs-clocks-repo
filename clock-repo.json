@@ -1,0 +1,47 @@
+{
+  "repoName": "che's Clock Repo",
+  "repoId": "che",
+  "authors": [
+    {
+      "name": "AndreaFontolan",
+      "website": "https://github.com/AndreaFontolan/Info-Orbs-Clockfaces",
+      "clocks": [
+        {
+          "name": "Rainbow Clock",
+          "downloadUrl": "https://github.com/AndreaFontolan/Info-Orbs-Clockfaces/tree/main/custom1%20Rainbow%20clock"
+        },
+        {
+          "name": "Arial Rainbow",
+          "downloadUrl": "https://github.com/AndreaFontolan/Info-Orbs-Clockfaces/tree/main/custom2%20Arial%20Rainbow"
+        },
+        {
+          "name": "Arial Harlekin",
+          "downloadUrl": "https://github.com/AndreaFontolan/Info-Orbs-Clockfaces/tree/main/custom3%20Arial%20Harlekin"
+        },
+        {
+          "name": "VFD Matrix White",
+          "downloadUrl": "https://github.com/AndreaFontolan/Info-Orbs-Clockfaces/tree/main/custom5%20VFD-Matrix%20wei%C3%9F"
+        },
+        {
+          "name": "VFD Matrix Rainbow",
+          "downloadUrl": "https://github.com/AndreaFontolan/Info-Orbs-Clockfaces/tree/main/VFD%20Matrix%20Rainbow/custom0"
+        },
+        {
+          "name": "LED Matrix White",
+          "downloadUrl": "https://github.com/AndreaFontolan/Info-Orbs-Clockfaces/tree/main/custom4%20LED-Matrix%20wei%C3%9F"
+        }
+      ]
+    },
+    {
+      "author": "che",
+      "basedOnBy": "AndreaFontolan",
+      "basedOnUrl": "https://github.com/AndreaFontolan/Info-Orbs-Clockfaces/tree/main/custom5%20VFD-Matrix%20wei%C3%9F",
+      "clocks": [
+        {
+          "name": "Rainbow Clock",
+          "downloadUrl": "https://github.com/flattermann/info-orbs/tree/LittleFS/images/clock/custom0"
+        }
+      ]
+    }
+  ]
+}
