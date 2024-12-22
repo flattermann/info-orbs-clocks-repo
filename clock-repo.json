@@ -4,43 +4,66 @@
   "authors": [
     {
       "author": "che",
-      "basedOnBy": "AndreaFontolan",
-      "basedOnUrl": "https://github.com/AndreaFontolan/Info-Orbs-Clockfaces/tree/main/custom5%20VFD-Matrix%20wei%C3%9F",
       "website": "https://github.com/flattermann/info-orbs-clocks-repo/",
       "clocks": [
         {
           "name": "Rainbow Clock",
-          "downloadUrl": "https://github.com/flattermann/info-orbs/tree/LittleFS/images/clock/custom0"
+          "desc": "A vertical rainbow gradient based on Andrea's VFD Matrix",
+          "released": "2024-12-20",
+          "downloadUrl": "https://github.com/flattermann/info-orbs/tree/LittleFS/images/clock/custom0",
+          "basedOnBy": "AndreaFontolan",
+          "basedOnUrl": "https://github.com/AndreaFontolan/Info-Orbs-Clockfaces/tree/main/custom5%20VFD-Matrix%20wei%C3%9F",
+          "likes": 1,
+          "downloads": 2
         }
       ]
     },
     {
       "name": "AndreaFontolan",
+      "id": "andrea",
       "website": "https://github.com/AndreaFontolan/Info-Orbs-Clockfaces",
       "clocks": [
         {
           "name": "Rainbow Clock",
-          "downloadUrl": "https://github.com/AndreaFontolan/Info-Orbs-Clockfaces/tree/main/custom1%20Rainbow%20clock"
+          "released": "2024-12-20",
+          "downloadUrl": "https://github.com/AndreaFontolan/Info-Orbs-Clockfaces/tree/main/custom1%20Rainbow%20clock",
+          "likes": 3,
+          "downloads": 6
         },
         {
           "name": "Arial Rainbow",
-          "downloadUrl": "https://github.com/AndreaFontolan/Info-Orbs-Clockfaces/tree/main/custom2%20Arial%20Rainbow"
+          "released": "2024-12-20",
+          "downloadUrl": "https://github.com/AndreaFontolan/Info-Orbs-Clockfaces/tree/main/custom2%20Arial%20Rainbow",
+          "likes": 2,
+          "downloads": 2
         },
         {
           "name": "Arial Harlekin",
-          "downloadUrl": "https://github.com/AndreaFontolan/Info-Orbs-Clockfaces/tree/main/custom3%20Arial%20Harlekin"
+          "released": "2024-12-20",
+          "downloadUrl": "https://github.com/AndreaFontolan/Info-Orbs-Clockfaces/tree/main/custom3%20Arial%20Harlekin",
+          "likes": 1,
+          "downloads": 1
         },
         {
           "name": "VFD Matrix White",
-          "downloadUrl": "https://github.com/AndreaFontolan/Info-Orbs-Clockfaces/tree/main/custom5%20VFD-Matrix%20wei%C3%9F"
+          "released": "2024-12-20",
+          "downloadUrl": "https://github.com/AndreaFontolan/Info-Orbs-Clockfaces/tree/main/custom5%20VFD-Matrix%20wei%C3%9F",
+          "likes": 3,
+          "downloads": 4
         },
         {
           "name": "VFD Matrix Rainbow",
-          "downloadUrl": "https://github.com/AndreaFontolan/Info-Orbs-Clockfaces/tree/main/VFD%20Matrix%20Rainbow/custom0"
+          "released": "2024-12-20",
+          "downloadUrl": "https://github.com/AndreaFontolan/Info-Orbs-Clockfaces/tree/main/VFD%20Matrix%20Rainbow/custom0",
+          "likes": 4,
+          "downloads": 5
         },
         {
           "name": "LED Matrix White",
-          "downloadUrl": "https://github.com/AndreaFontolan/Info-Orbs-Clockfaces/tree/main/custom4%20LED-Matrix%20wei%C3%9F"
+          "released": "2024-12-20",
+          "downloadUrl": "https://github.com/AndreaFontolan/Info-Orbs-Clockfaces/tree/main/custom4%20LED-Matrix%20wei%C3%9F",
+          "likes": 4,
+          "downloads": 2
         }
       ]
     }
